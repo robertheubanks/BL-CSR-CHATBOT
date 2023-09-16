@@ -25,7 +25,7 @@ export default function Home() {
   }>({
     messages: [
       {
-        message: 'Hello Bausch + Lomb team, what would you like to learn about this CSR?',
+        message: 'Hello Bausch + Lomb team, how about we chat with your CSRs?',
         type: 'apiMessage',
       },
     ],
@@ -125,7 +125,7 @@ export default function Home() {
       <Layout>
         <div className="mx-auto flex flex-col gap-4">
           <h1 className="text-2xl font-bold leading-[1.1] tracking-tighter text-center">
-            Chat With Your Clinical Study Reports
+            Ask AI Gary
           </h1>
           <main className={styles.main}>
             <div className={styles.cloud}>
@@ -262,7 +262,7 @@ export default function Home() {
         </div>
         <footer className="m-auto p-4">
           <a href="https://twitter.com/@RobertHEubanks">
-            Powered by INFOSYS CONSULTING.
+            Powered by INFOSYS CONSULTING
           </a>
         </footer>
       </Layout>
