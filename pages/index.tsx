@@ -25,7 +25,7 @@ export default function Home() {
   }>({
     messages: [
       {
-        message: 'Hello Bausch + Lomb team, how about we chat with your CSRs?',
+        message: 'Hello Bausch + Lomb team, how about we chat with your Clinical Study Reports?',
         type: 'apiMessage',
       },
     ],
@@ -262,7 +262,7 @@ export default function Home() {
         </div>
         <footer className="m-auto p-4">
           <a href="https://twitter.com/@RobertHEubanks">
-            Powered by INFOSYS CONSULTING
+            Bausch + Lomb Ask AI Gary CSR Chatbot MVP
           </a>
         </footer>
       </Layout>
